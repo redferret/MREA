@@ -1,0 +1,13 @@
+*
+!public/
+!.gitignore
+!/AssumptionsDBColNames
+!/TeamAssumpsDBColNames
+!/BudgetModelDBColNames
+!/BudgetItemsDBColNames
+!/Monthly411DBColNames
+!/Weekly411DBColNames
+!/Annual411DBColNames
+!/GoalTrackingDBColNames
+!/CustomAds/
+/CustomAds/leftAd.html
